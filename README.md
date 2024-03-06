@@ -40,10 +40,8 @@ while True:
 ~~~
 ## OUTPUT
 ## CLIENT:
-~~~
-![image](https://github.com/Gedipudidarshani/2a_Stop_and_Wait_Protocol/assets/139340574/4cf3471c-c6fc-483c-ae70-cdf8e086abc0)
+![Screenshot 2024-03-06 112847](https://github.com/Gedipudidarshani/2a_Stop_and_Wait_Protocol/assets/139340574/7e0f60b4-600c-4d46-815c-07ddb890aeff)
 
-~~~
 ## SERVER:
 ![image](https://github.com/Gedipudidarshani/2a_Stop_and_Wait_Protocol/assets/139340574/63dcdcb2-fd86-4290-8574-c68a1a0acd67)
 
